@@ -7,7 +7,7 @@ Utilized Qiskit to implement Quantum Circuit, and using the concept of bringing 
 
 Deployed and created web app using Streamlit framework.
 
-# Instructions
+## Instructions ##
 
 |0> and |1> represent the piece chosen by the Computer and User respectively.
 
